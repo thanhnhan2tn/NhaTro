@@ -1,0 +1,1 @@
+goto http://nhatrocantho.thanhnhantn.com
